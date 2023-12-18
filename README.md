@@ -16,11 +16,11 @@ I am an engineer who became interested in front-end development a year and a hal
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D0%B5%D0%B2-2a029725a/" target="_blank">
+    <a href="https://www.linkedin.com/in/elizaveta-razumenko-508187282" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://www.instagram.com/elizaveta__razumenko?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-      <img src="./assets/icon-instagram.png" width="40" height="40" alt="insta" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="40" height="40" alt="insta" />
     </a>
   </div>
 
