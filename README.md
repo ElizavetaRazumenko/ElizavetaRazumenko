@@ -51,7 +51,6 @@ I am an engineer who became interested in front-end development a year and a hal
  - [Nasa App (Next js)](https://nasa-api-deploy.vercel.app/)
  - [YouTube App (Angular)](https://655e0386036f1f29f4c2ecf0--earnest-tanuki-2f93ce.netlify.app/)
  - [Connections App (Angular)](https://angular-final-project-rss-er.netlify.app/)
- - [Connections App (Angular)](https://angular-final-project-rss-er.netlify.app/)
  - [CSS Selectors game App (Typescript)](https://rolling-scopes-school.github.io/elizavetarazumenko-JSFE2023Q1/RSS-CSS-Selectors/?#)
 
 ---
