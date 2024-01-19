@@ -44,19 +44,22 @@ I am an engineer who became interested in front-end development a year and a hal
 ---
 
 ### 📈 My Projects
- - [GraphQL App](https://659ae379fd3007b76990d5bb--graphiql-react-rsschool.netlify.app/)
- - [Forms App](https://react-application-forms-elizaveta.netlify.app/)
- - [Art Institute App](https://655da4f86e85235e4e41eac6--lighthearted-syrniki-d3910a.netlify.app/)
+ - [GraphQL App (React, Redux, MUI)](https://659ae379fd3007b76990d5bb--graphiql-react-rsschool.netlify.app/)
+ - [Forms App (React, Redux)](https://react-application-forms-elizaveta.netlify.app/)
+ - [Art Institute App (React, Redux)](https://655da4f86e85235e4e41eac6--lighthearted-syrniki-d3910a.netlify.app/)
  - [Art Institute App (Next js)](https://next-deploy-two-sand.vercel.app/)
  - [Nasa App (Next js)](https://nasa-api-deploy.vercel.app/)
  - [YouTube App (Angular)](https://655e0386036f1f29f4c2ecf0--earnest-tanuki-2f93ce.netlify.app/)
+ - [Connections App (Angular)](https://angular-final-project-rss-er.netlify.app/)
+ - [Connections App (Angular)](https://angular-final-project-rss-er.netlify.app/)
+ - [CSS Selectors game App (Typescript)](https://rolling-scopes-school.github.io/elizavetarazumenko-JSFE2023Q1/RSS-CSS-Selectors/?#)
 
 ---
 
 ### ⚡ Courses
 > The Rolling Scopes School
   - JS/FE Pre-School 2022Q4
-  - Dec 2022 - Mar 2023
+  - Dec 2022 - ar 2023
   - [Certificate](https://app.rs.school/certificate/wpv6dtjc)
 
 > The Rolling Scopes School
