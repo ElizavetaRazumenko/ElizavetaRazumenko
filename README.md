@@ -58,7 +58,7 @@ I am an engineer who became interested in front-end development a year and a hal
 ### ⚡ Courses
 > The Rolling Scopes School
   - JS/FE Pre-School 2022Q4
-  - Dec 2022 - ar 2023
+  - Dec 2022 - Mar 2023
   - [Certificate](https://app.rs.school/certificate/wpv6dtjc)
 
 > The Rolling Scopes School
