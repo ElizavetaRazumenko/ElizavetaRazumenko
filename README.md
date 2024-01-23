@@ -69,6 +69,7 @@ I am an engineer who became interested in front-end development a year and a hal
 > The Rolling Scopes School
   - Angular 2023Q4
   - Oct 2023 - Jan 2024
+  - [Certificate](https://app.rs.school/certificate/94l3163b)
 
 > The Rolling Scopes School
   - React 2023Q4
