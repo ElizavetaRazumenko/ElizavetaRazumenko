@@ -4,7 +4,7 @@
 ---
 
 ### :man_technologist: About me:
-I am an engineer who became interested in front-end development a year and a half ago. I am inspired by what I do, so I really hope that my hobby will develop into my main job.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Web and mobile application developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
 
